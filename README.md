@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anurag998
+- 👋 Hi, I’m Anurag Shukla
 - 👀 I’m interseted in Software Development and Machine Learning
 - 🌱 I’m currently pursuing Masters degree in Computer Science from IIT Madras
 
